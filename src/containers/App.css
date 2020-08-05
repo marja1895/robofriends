@@ -1,0 +1,12 @@
+@font-face {
+	font-family: "Team Galaxy Regular";
+	font-style: normal;
+	font-weight: normal;
+	src: local("Team Galaxy Regular"), url("teamgalaxy.woff") format("woff");
+}
+
+h1 {
+	font-family: "Team Galaxy Regular";
+	font-weight: 200;
+	color: #fff;
+}
